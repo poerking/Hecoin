@@ -1,0 +1,11 @@
+{
+  "name": "bitcoinbit",
+  "version": "1.0.0",
+  "description": "bitcoin information automatic extractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "author": "poerking",
+  "license": "ISC"
+}
